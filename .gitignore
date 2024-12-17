@@ -1,0 +1,5 @@
+
+Specifies files or directories that Git should ignore (i.e., not track).
+This is important to avoid pushing unnecessary or sensitive files to the
+repository, such as logs, build files, or personal configuration
+files.
